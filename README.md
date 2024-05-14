@@ -1,2 +1,2 @@
 # delta-demo
-Demo repo for myself
+Demo repo for myself.
